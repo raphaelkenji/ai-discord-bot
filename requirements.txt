@@ -1,0 +1,4 @@
+discord.js
+dotenv
+openai
+postgresql
